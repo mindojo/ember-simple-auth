@@ -19,7 +19,7 @@
   "author": "simplabs GmbH",
   "license": "MIT",
   "devDependencies": {
-    "body-parser": "1.15.2",
+    "body-parser": "1.20.3",
     "broccoli-asset-rev": "^2.4.2",
     "broccoli-merge-trees": "^1.1.2",
     "broccoli-yuidoc": "~2.1.0",
